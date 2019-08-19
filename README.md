@@ -3,4 +3,5 @@ This repository includes the code of our two algorithms for approximating Dunn's
 
 Rathore P., Ghafoori Z., Bezdek J. C., Palaniswami M., Leckie C. "Approximating Dunn's Cluster Validity Indices for Partitions of Big Data" in  IEEE Transactions on Cybernetics (IEEE T-CYB), 2018
 
-Code is being reviewed and will be uploaded soon. 
+Rathore, P., Ghafoori, Z., Bezdek, J. C., Palaniswami, M., Leckie, C. (2018, October). Estimating Generalized Dunn's Cluster Validity Indices for Big Data, in IEEE International Conference on Systems, Man, and Cybernetics (SMC) (pp. 656-661)
+
