@@ -1,3 +1,5 @@
+%%x = input data, cp= desired number of Maximin points, ns= (approximate) desired number of MMRS samples. 
+%%smp = MMRS samples, m = Maximin points
 function [smp,rp,m,temp_cell] = SamplingBigData(x, cp, ns )
 [n,p]=size(x);
 
